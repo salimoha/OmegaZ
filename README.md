@@ -1,4 +1,4 @@
-# deltaDOGS $\Omega$ Z
+# deltaDOGS Omega Z
 
 This  Delaunay-based Derivative-free Optimization via Global Surrogates family of algorithms, and is used to identify a new, low-storage, high-accuracy, Implicit/Explicit Runge-Kutta (IMEXRK) time integration scheme for the stiff ODEs arising in high performance computing applications, like the simulation of turbulence. 
 
