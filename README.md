@@ -8,9 +8,6 @@ This  Delaunay-based Derivative-free Optimization via Global Surrogates family o
 
 You need Snop solver for the constant K verision of this software. 
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -36,7 +33,7 @@ Give an example
 
 ## Authors
 
-* **Shahrouz Ryan Alimo ** - *Initial work* - [PurpleBooth](https://github.com/salimoha)
+* **Shahrouz Ryan Alimo ** - *Initial work* - [salimoha](https://github.com/salimoha)
 
 ## License
 
