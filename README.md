@@ -1,6 +1,9 @@
-# $$\delta$$-DOGS($$\Omega_Z$$)
+# deltaDOGS Omega_Z
 
-This repo contains code accompaning the paper, 	[Design of IMEXRK time integration schemes via Delaunay-based derivative-free optimization with nonconvex constraints and grid-based acceleration)]. It includes code for running the several benchmark optimization problems with nonconvex objective function and nonconvex (or even disconnected) feasible domain defined with a set of nonconvex constraint functions, including the derivation of a new, low-storage, high-accuracy, Implicit/Explicit Runge-Kutta (IMEXRK) time integration scheme.
+This repo contains code accompaning the paper, [Design of IMEXRK time integration schemes via Delaunay-based derivative-free optimization with nonconvex constraints and grid-based acceleration)]. It includes code for running the several benchmark optimization problems with nonconvex objective function and nonconvex (or even disconnected) feasible domain defined with a set of nonconvex constraint functions, including the derivation of a new, low-storage, high-accuracy, Implicit/Explicit Runge-Kutta (IMEXRK) time integration scheme.
+
+
+
 
 ### Dependencies
 This code requires the following:
@@ -20,11 +23,6 @@ Afterwards, all the dependances are going to be installed in your MATLAB path an
 ### Contact
 To ask questions or report issues, please open an issue on the [issues tracker](https://github.com/salimoha/deltaDOGS_OmegaZ/issues).
 
-
-
-# deltaDOGS Omega Z
-
-This Delaunay-based Derivative-free Optimization via Global Surrogates family of algorithms, and is used to identify a new, low-storage, high-accuracy, Implicit/Explicit Runge-Kutta (IMEXRK) time integration scheme for the stiff ODEs arising in high performance computing applications, like the simulation of turbulence. 
 
 
 ## License
