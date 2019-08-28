@@ -1,4 +1,4 @@
-# $\Delta{}$DOGS Omega_Z
+# $\delta{}$DOGS Omega_Z
 
 This repo contains code accompaning the paper, [Design of IMEXRK time integration schemes via Delaunay-based derivative-free optimization with nonconvex constraints and grid-based acceleration)]. It includes code for running the several benchmark optimization problems with nonconvex objective function and nonconvex (or even disconnected) feasible domain defined with a set of nonconvex constraint functions, including the derivation of a new, low-storage, high-accuracy, Implicit/Explicit Runge-Kutta (IMEXRK) time integration scheme.
 
